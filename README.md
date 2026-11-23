@@ -34,7 +34,7 @@ Dataset
 The project uses high-resolution images of size 1080 × 1980 pixels. Multiple images are processed in a single batch.
 
 Project Structure
-
+```
 GPU-Batch-Image-Processing/
 ├── CMakeLists.txt
 ├── README.md
@@ -48,7 +48,7 @@ GPU-Batch-Image-Processing/
 ├── results/
 │   └── performance.csv
 └── screenshots/
-
+```
 Execution
 
 The project is compiled using CMake with CUDA and OpenCV support.
